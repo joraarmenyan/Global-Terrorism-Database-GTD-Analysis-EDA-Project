@@ -57,6 +57,4 @@ Based on the data analysis, the following conclusions were drawn:
     
 4.  Open the notebook (.ipynb) and run the cells sequentially.
 
----
-*Author: [Քո Անուն Ազգանունը]*
-*University Project - [Տարեթիվ]*
+
